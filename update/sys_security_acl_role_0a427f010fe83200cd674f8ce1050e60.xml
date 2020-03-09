@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_0a427f010fe83200cd674f8ce1050e60</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-01-24 22:46:34</sys_updated_on>
-        <sys_user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</sys_user_role>
+        <sys_user_role display_value="x_58872_needit.Test_need_it_user" name="x_58872_needit.Test_need_it_user">4e42fb8d0fa83200cd674f8ce1050e72</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
